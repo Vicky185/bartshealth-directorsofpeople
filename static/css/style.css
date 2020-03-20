@@ -86,7 +86,7 @@ fa-bars{
 /* ----------------------------------------- Footer styles */
 
 footer {
-    background-color: #D8ECEB;
+    background-color: #006EB1;
     color: #fafafa;
     min-height: 160px;
 }
@@ -99,5 +99,14 @@ footer {
     font-size: 20px;
     text-align: center;
     color: #fafafa;
-    background-color: #D8ECEB;
+    background-color: #006EB1;
+}
+
+.hunter-logo-footer {
+    width: 250px;
+    height: 150px;
+    padding: 5px;
+    display: center;
+
+
 }
