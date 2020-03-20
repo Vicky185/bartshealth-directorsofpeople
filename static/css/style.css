@@ -109,3 +109,12 @@ footer {
 
 
 }
+
+
+@media(min-width:768px) {
+    .logo {
+        min-height: 100px;
+        background-position: left;
+        margin: 7px 7px 7px 50px;
+        max-width: 100%;
+    }
